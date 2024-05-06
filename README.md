@@ -1,7 +1,7 @@
 ## Background for items rarity
 
 for Wakfu MMO
-- adds a tranparent fade background for items rarity which enhances the visibility 
+- adds a tranparent fade background for items rarity which enhances the visibility on bright background
 ___
 ### Windows Install:
 - Put "appSkin" folder into your theme folder (replace files if necessary):
