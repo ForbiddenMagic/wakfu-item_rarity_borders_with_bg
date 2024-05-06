@@ -18,3 +18,6 @@ other screenshots:
 
 ![Screenshot_11](https://github.com/ForbiddenMagic/wakfu-item_rarity_borders_with_bg/assets/29806538/2111754f-a87d-4a02-9af2-51d2ff14729b)
 ![drop1](https://github.com/ForbiddenMagic/wakfu-item_rarity_borders_with_bg/assets/29806538/050ec56d-14ab-4b5b-baa5-4a4616991400)
+![Screenshot_14](https://github.com/ForbiddenMagic/wakfu-item_rarity_borders_with_bg/assets/29806538/81edd051-56eb-4e42-8cd9-bf3aa3c12b2e)
+![Screenshot_13](https://github.com/ForbiddenMagic/wakfu-item_rarity_borders_with_bg/assets/29806538/fdad6dc0-ecbc-4b98-8a32-f619f4b945e1)
+![Screenshot_15](https://github.com/ForbiddenMagic/wakfu-item_rarity_borders_with_bg/assets/29806538/7109e8a1-a721-4e43-9cbd-7aec8257f2d2)
