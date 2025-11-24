@@ -4,17 +4,27 @@ for Wakfu MMO
 - adds a tranparent fade background for items rarity which enhances the visibility on bright background
 ___
 ### Windows Install:
-- Put "appSkin" folder into your theme folder (replace files if necessary):
+- Put "theme" folder into your current theme (replace files if necessary)
+- or create a new theme and place files there:
 
-C:\Users\ **---USER_NAME---** \AppData\Roaming\zaap\gamesLogs\wakfu\themes\ **---THEME_NAME---** \theme\images\itemsRarityBorders
+(!) theme must start with "theme_"
+example: theme_MY_THEME
 
-- Apply theme in interface settings
+to open theme folder: in game go to options/interface and press "open folder"
+
+files
+1 - C:\Users\ **---USER_NAME---** \AppData\Roaming\zaap\gamesLogs\wakfu\themes\ **---THEME_NAME---** \theme\images\itemsRarityBorders
+2 - C:\Users\ **---USER_NAME---** \AppData\Roaming\zaap\gamesLogs\wakfu\themes\ **---THEME_NAME---** \theme\images\pictos
+
+- Select theme in interface settings
 - Reload theme
 ___
 --new borders--
 ![Screenshot_9](https://github.com/ForbiddenMagic/wakfu-item_rarity_borders_with_bg/assets/29806538/2e915cad-140f-49dc-b09b-fd8de33c9023)
+<img width="782" height="689" alt="new ui 1" src="https://github.com/user-attachments/assets/04d8d41e-1706-4503-acb5-12f656e62785" />
 --default--
 ![Screenshot_10](https://github.com/ForbiddenMagic/wakfu-item_rarity_borders_with_bg/assets/29806538/06e41582-bc10-4f8a-b171-d28cb5de5b58)
+<img width="779" height="686" alt="new ui default" src="https://github.com/user-attachments/assets/d30d725d-3011-4254-80cc-943c36e52526" />
 ___
 ### other screenshots:
 ![Screenshot_11](https://github.com/ForbiddenMagic/wakfu-item_rarity_borders_with_bg/assets/29806538/2111754f-a87d-4a02-9af2-51d2ff14729b)
