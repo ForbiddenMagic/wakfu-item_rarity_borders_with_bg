@@ -13,7 +13,8 @@ example: theme_MY_THEME
 to open theme folder: in game go to options/interface and press "open folder"
 
 files
-1 - C:\Users\ **---USER_NAME---** \AppData\Roaming\zaap\gamesLogs\wakfu\themes\ **---THEME_NAME---** \theme\images\itemsRarityBorders
+1 - C:\Users\ **---USER_NAME---** \AppData\Roaming\zaap\gamesLogs\wakfu\themes\ **---THEME_NAME---** \theme\images\itemsRarityBorders 
+ 
 2 - C:\Users\ **---USER_NAME---** \AppData\Roaming\zaap\gamesLogs\wakfu\themes\ **---THEME_NAME---** \theme\images\pictos
 
 - Select theme in interface settings
