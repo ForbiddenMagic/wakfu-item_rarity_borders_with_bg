@@ -8,7 +8,7 @@ ___
 - or create a new theme and place files there:
 
 (!) theme must start with "theme_"
-example: theme_MY_THEME
+example: "theme_MY_THEME"
 
 to open theme folder: in game go to options/interface and press "open folder"
 
