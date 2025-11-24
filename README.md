@@ -12,16 +12,15 @@ example: theme_MY_THEME
 
 to open theme folder: in game go to options/interface and press "open folder"
 
-___
-
-files 
- 
-1 - C:\Users\ **---USER_NAME---** \AppData\Roaming\zaap\gamesLogs\wakfu\themes\ **---THEME_NAME---** \theme\images\itemsRarityBorders 
- 
-2 - C:\Users\ **---USER_NAME---** \AppData\Roaming\zaap\gamesLogs\wakfu\themes\ **---THEME_NAME---** \theme\images\pictos
-
 - Select theme in interface settings
 - Reload theme
+
+___
+
+files:
+
+- 1 - C:\Users\ **---USER_NAME---** \AppData\Roaming\zaap\gamesLogs\wakfu\themes\ **---THEME_NAME---** \theme\images\itemsRarityBorders 
+- 2 - C:\Users\ **---USER_NAME---** \AppData\Roaming\zaap\gamesLogs\wakfu\themes\ **---THEME_NAME---** \theme\images\pictos
 ___
 --new borders--
 ![Screenshot_9](https://github.com/ForbiddenMagic/wakfu-item_rarity_borders_with_bg/assets/29806538/2e915cad-140f-49dc-b09b-fd8de33c9023)
